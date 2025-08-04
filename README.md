@@ -25,13 +25,3 @@ Selamat datang di repositori saya!
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayll0&show_icons=true&theme=tokyonight)
 
 ---
-
-<details>
-<summary>🧰 Inventory</summary>
-
-- Weapon: ⚔️ Keyboard
-- Armor: 🧠 Focus Mode
-- Companion: 🐧 Linux Terminal
-
-</details>
-
